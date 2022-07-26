@@ -1,2 +1,6 @@
 # Automacao-Instagram
-Tutorial realizado de um robô que curte as publicações do instagram do feed
+
+> Status: Desenvolvido
+
+###Automação que curte as fotos do feed do instagram.
+
